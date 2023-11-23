@@ -10,7 +10,7 @@ git tag -d 1et
 git tag
 
 ### Imagen del git bash:
-![Caprura de crear, borrar y listar]("../capturasEj3/crear_borrar_listar_etiqueta.png")
+![Caprura de crear, borrar y listar]("/crear_borrar_listar_etiqueta.png")
 
 ## Commit:
 git tag -a 1et 4c197f854d78e95233c62bf2f0f0476a0e15c5e9 -m "etiqueta 1"
