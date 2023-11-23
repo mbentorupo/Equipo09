@@ -1,0 +1,21 @@
+#Ignorar archivos generados por el so
+Thumbs.db
+.DS_Store
+
+#Ignorar archivos de configuración locales (Variables de entorno)
+.env
+
+#Ignorar directorios de dependencias y módulos
+node_modules/
+vendor/
+
+#Ignorar archivos de respaldo
+*.bak
+*.backup
+
+#Ignorar archivos de registro
+*.log
+
+#Ignorar archivos de configuración de IDE
+.idea/
+.vscode/
