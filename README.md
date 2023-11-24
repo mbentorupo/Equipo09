@@ -11,7 +11,7 @@ Nuestro Proyecto
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/mbentor/equipo09.git
+    git clone https://github.com/mbentorupo/Equipo09.git
     ```
 
 2. Ingresa al directorio del proyecto:
